@@ -1,5 +1,5 @@
 # Buisayld your say_hello method here
-say_hello (name)
+say_hello(name)
   puts ("Hello #{name}!")
   puts "Hello #{Ruby Programmer}!"
 end
